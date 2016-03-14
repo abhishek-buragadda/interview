@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Created by aburagad on 1/22/2016.
  */
-public class Main {
+public class AddingRevNumbers {
 
 
     public static void main(String[] args) {

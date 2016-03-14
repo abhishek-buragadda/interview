@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * Created by aburagad on 1/21/2016.
  */
-public class Main {
+public class LifeUniverseEverything {
 
     public static void main(String[] args) {
         List<String> a  = new ArrayList();
